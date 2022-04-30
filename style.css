@@ -267,7 +267,7 @@ h3 {
 
 .icon-container{
   display:grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: .9fr 2fr;
   grid-template-rows: auto;
   /* width:60%; 
   height:130%; */
@@ -276,15 +276,15 @@ h3 {
   /* margin-left: -75%; */
   /* grid-template-columns: 1fr;
   grid-template-rows: 1fr 1fr 1fr; */
-  margin-top:75px ;
+  margin-top:75px;
   font-size: 24px;
   color: #684B5B;
 
   }
 
-  /* .icon{
-    scale: 50%;
-  } */
+  .icon{
+    scale: 5%;
+  }
 
 
 .logo-svg {
@@ -338,6 +338,10 @@ h3 {
     font-size: 1em;
   }
 
+  .project-four{
+
+    
+  }
 
 
   /* MEDIA QUERY FOR SMALL SCREENS
