@@ -426,7 +426,7 @@ h3 {
 
     .icon-container{
       display:grid;
-      grid-template-columns: .5fr 2fr;
+      grid-template-columns: .7fr 2fr;
       grid-template-rows: auto;
       margin-left: 15%;
       margin-right: 10%;
