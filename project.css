@@ -124,8 +124,14 @@ nav{
 
 #project-1{
   position:absolute;
- 
   margin-top: -380px;
+
+}
+
+#project-2{
+  position:absolute;
+  margin-top: -160px;
+  padding-bottom: 80px;
 
 }
 
