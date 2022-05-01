@@ -146,7 +146,7 @@ nav{
            ". e f ."
            ;
        }
-  
+
 
 .box-styling {
     height: 400px;
@@ -176,11 +176,11 @@ nav{
 
 /* .box5 {
     grid-area: e;
-}
+}  */
 
-.box6 {
+/* .box6 {
     grid-area: f; 
-} */
+} */ 
 
 /* .bigText {
     font-size: 2em;
@@ -359,7 +359,7 @@ h3 {
      nav{
          padding-left: 0;
          padding-right: 0;
-
+     
      }
      svg{
        width: 100%;
