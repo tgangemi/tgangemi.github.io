@@ -268,7 +268,7 @@ h3 {
 
 .icon-container{
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: .8fr 2fr;
   grid-template-rows: auto;
   /* width:60%; 
   height:130%; */
@@ -357,6 +357,7 @@ h3 {
      nav{
          padding-left: 0;
          padding-right: 0;
+         /* position: center; */
      
      }
      svg{
@@ -365,10 +366,10 @@ h3 {
      }
 
      .logo{
-      width:18%;
-      display:block;
+      width:23%;
+      display: block;
       margin:0 auto;
-      position: relative;
+      position: relative center;
       
     
       }
