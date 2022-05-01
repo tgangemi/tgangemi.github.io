@@ -382,6 +382,8 @@ h3 {
         padding-right: 0; */
         margin-right: 0%;
         margin-left: 0%;
+        padding-left: 15px;
+        padding-right: 15px;
         position: center;
         grid-template-columns: 1fr minmax(400px, 1fr) 1fr;
         grid-template-areas:
@@ -429,10 +431,12 @@ h3 {
 
     .icon-container {
       display:grid;
-      grid-template-columns: .7fr 2fr;
+      grid-template-columns: .5fr 2fr;
       grid-template-rows: auto;
-      margin-left: 10%;
-      margin-right: 10%;
+      margin-left: 15%;
+      margin-right: 0%;
+      padding-left:0%;
+      padding-left:0%;
     }
 
     h4{
